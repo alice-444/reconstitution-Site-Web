@@ -1,7 +1,7 @@
-# reconstitution Site Web TotalEnergie
+# Projet : reconstitution Site Web TotalEnergie
 
-Création d'une page d'accueil
+Consigne : Recréer le site TotalEnergie avec une page d'accueil, une page partenaire et un espace client
 
-Création d'une page partenaire
+L'espace client devait contenir une base de données.
 
-Création d'une base de données
+Lors de ce projet, la base de données a été stockées dans MySQL
